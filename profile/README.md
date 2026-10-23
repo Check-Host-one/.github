@@ -36,27 +36,14 @@ No account and no API key, for the website, the API or the MCP server.
 
 ### 📡 Live: pinging check-host.one right now
 
-<!-- PING:START -->
-| | Server | Network | Avg | Min | Max | Loss |
-| :---: | --- | --- | ---: | ---: | ---: | ---: |
-| 🟢 | 🇯🇵 Tokyo, JP | xTom | **1.1 ms** | 1.1 ms | 1.2 ms | 0% |
-| 🟢 | 🇧🇷 Sao Paulo, BR | Oracle | **1.3 ms** | 1.0 ms | 1.8 ms | 0% |
-| 🟢 | 🇸🇬 Singapore, SG | LeaseWeb | **1.3 ms** | 1.2 ms | 1.3 ms | 0% |
-| 🟢 | 🇮🇳 Mumbai, IN | Oracle | **1.4 ms** | 1.3 ms | 1.4 ms | 0% |
-| 🟢 | 🇬🇧 London, GB | OVH | **1.5 ms** | 1.4 ms | 1.6 ms | 0% |
-| 🟢 | 🇦🇺 Sydney, AU | Oracle | **1.5 ms** | 1.5 ms | 1.6 ms | 0% |
-| 🟢 | 🇨🇦 Montreal, CA | OVH | **7.6 ms** | 7.6 ms | 7.7 ms | 0% |
-| 🟢 | 🇩🇪 Falkenstein, DE | Hetzner Online | **8.5 ms** | 6.7 ms | 10.9 ms | 0% |
-| 🟢 | 🇺🇸 Buffalo, US | HostPapa | **14.1 ms** | 14.1 ms | 14.2 ms | 0% |
-| 🟢 | 🇿🇦 Pretoria, ZA | Internet Magnate | **24.3 ms** | 24.3 ms | 24.3 ms | 0% |
+<a href="https://check-host.one/?type=ping&target=check-host.one">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Check-Host-one/.github/main/profile/ping-dark.svg">
+    <img src="https://raw.githubusercontent.com/Check-Host-one/.github/main/profile/ping-light.svg" width="640" alt="Live ping of check-host.one from 10 countries">
+  </picture>
+</a>
 
-<sub>ICMP ping to `check-host.one` from 10 servers, 2026-10-23 01:53 UTC. [Full result with map](https://check-host.one/r/74tg8x733p) · updated every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) using the [Python SDK](https://github.com/Check-Host-one/check-host-python).</sub>
-<!-- PING:END -->
-
-<p>
-  <a href="https://check-host.one/?type=ping&target=check-host.one"><img src="https://img.shields.io/badge/%E2%96%B6%20Run%20a%20live%20ping-check--host.one-2563eb?style=for-the-badge" alt="Run a live ping of check-host.one"></a>
-  <a href="https://check-host.one/?type=http&target=check-host.one"><img src="https://img.shields.io/badge/%E2%96%B6%20HTTP%20check-check--host.one-0ea5e9?style=for-the-badge" alt="Run a live HTTP check of check-host.one"></a>
-</p>
+<sub>Click the card to run a fresh check · [last result with map](https://check-host.one/r/hc7q3vyfsw) · drawn every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) with the [Python SDK](https://github.com/Check-Host-one/check-host-python)</sub>
 
 ### 🤖 For AI agents
 

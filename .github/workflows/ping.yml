@@ -22,5 +22,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update live ping results" || exit 0
+          git add -A profile && git commit -m "Update live ping results" || exit 0
           git push
