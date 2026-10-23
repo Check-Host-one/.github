@@ -39,18 +39,18 @@ No account and no API key, for the website, the API or the MCP server.
 <!-- PING:START -->
 | | Server | Network | Avg | Min | Max | Loss |
 | :---: | --- | --- | ---: | ---: | ---: | ---: |
-| 🟢 | 🇸🇬 Singapore, SG | OVH | **1.1 ms** | 1.1 ms | 1.1 ms | 0% |
-| 🟢 | 🇯🇵 Tokyo, JP | xTom | **1.3 ms** | 1.2 ms | 1.3 ms | 0% |
-| 🟢 | 🇬🇧 London, GB | OVH | **1.4 ms** | 1.4 ms | 1.5 ms | 0% |
-| 🟢 | 🇮🇳 Mumbai, IN | Oracle | **1.5 ms** | 1.4 ms | 1.5 ms | 0% |
-| 🟢 | 🇦🇺 Sydney, AU | Oracle | **1.5 ms** | 1.5 ms | 1.5 ms | 0% |
-| 🟢 | 🇿🇦 Johannesburg, ZA | HUAWEI CLOUDS | **2.0 ms** | 1.9 ms | 2.1 ms | 0% |
-| 🟢 | 🇧🇷 Sao Paulo, BR | Oracle | **3.6 ms** | 1.3 ms | 8.4 ms | 0% |
-| 🟢 | 🇩🇪 Falkenstein, DE | Hetzner Online | **5.5 ms** | 5.5 ms | 5.6 ms | 0% |
-| 🟢 | 🇨🇦 Saint-Laurent, CA | OVH | **7.7 ms** | 7.7 ms | 7.7 ms | 0% |
-| 🟢 | 🇺🇸 Buffalo, US | HostPapa | **11.7 ms** | 11.5 ms | 12.0 ms | 0% |
+| 🟢 | 🇯🇵 Tokyo, JP | xTom | **1.1 ms** | 1.1 ms | 1.2 ms | 0% |
+| 🟢 | 🇧🇷 Sao Paulo, BR | Oracle | **1.3 ms** | 1.0 ms | 1.8 ms | 0% |
+| 🟢 | 🇸🇬 Singapore, SG | LeaseWeb | **1.3 ms** | 1.2 ms | 1.3 ms | 0% |
+| 🟢 | 🇮🇳 Mumbai, IN | Oracle | **1.4 ms** | 1.3 ms | 1.4 ms | 0% |
+| 🟢 | 🇬🇧 London, GB | OVH | **1.5 ms** | 1.4 ms | 1.6 ms | 0% |
+| 🟢 | 🇦🇺 Sydney, AU | Oracle | **1.5 ms** | 1.5 ms | 1.6 ms | 0% |
+| 🟢 | 🇨🇦 Montreal, CA | OVH | **7.6 ms** | 7.6 ms | 7.7 ms | 0% |
+| 🟢 | 🇩🇪 Falkenstein, DE | Hetzner Online | **8.5 ms** | 6.7 ms | 10.9 ms | 0% |
+| 🟢 | 🇺🇸 Buffalo, US | HostPapa | **14.1 ms** | 14.1 ms | 14.2 ms | 0% |
+| 🟢 | 🇿🇦 Pretoria, ZA | Internet Magnate | **24.3 ms** | 24.3 ms | 24.3 ms | 0% |
 
-<sub>ICMP ping to `check-host.one` from 10 servers, 2026-10-23 01:52 UTC. [Full result with map](https://check-host.one/r/dw7dhm3kbd) · updated every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) using the [Python SDK](https://github.com/Check-Host-one/check-host-python).</sub>
+<sub>ICMP ping to `check-host.one` from 10 servers, 2026-10-23 01:53 UTC. [Full result with map](https://check-host.one/r/74tg8x733p) · updated every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) using the [Python SDK](https://github.com/Check-Host-one/check-host-python).</sub>
 <!-- PING:END -->
 
 <p>
