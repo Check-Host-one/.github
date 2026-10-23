@@ -34,6 +34,30 @@
 
 No account and no API key, for the website, the API or the MCP server.
 
+### 📡 Live: pinging check-host.one right now
+
+<!-- PING:START -->
+| | Server | Network | Avg | Min | Max | Loss |
+| :---: | --- | --- | ---: | ---: | ---: | ---: |
+| 🟢 | 🇸🇬 Singapore, SG | OVH | **1.1 ms** | 1.1 ms | 1.1 ms | 0% |
+| 🟢 | 🇯🇵 Tokyo, JP | xTom | **1.3 ms** | 1.2 ms | 1.3 ms | 0% |
+| 🟢 | 🇬🇧 London, GB | OVH | **1.4 ms** | 1.4 ms | 1.5 ms | 0% |
+| 🟢 | 🇮🇳 Mumbai, IN | Oracle | **1.5 ms** | 1.4 ms | 1.5 ms | 0% |
+| 🟢 | 🇦🇺 Sydney, AU | Oracle | **1.5 ms** | 1.5 ms | 1.5 ms | 0% |
+| 🟢 | 🇿🇦 Johannesburg, ZA | HUAWEI CLOUDS | **2.0 ms** | 1.9 ms | 2.1 ms | 0% |
+| 🟢 | 🇧🇷 Sao Paulo, BR | Oracle | **3.6 ms** | 1.3 ms | 8.4 ms | 0% |
+| 🟢 | 🇩🇪 Falkenstein, DE | Hetzner Online | **5.5 ms** | 5.5 ms | 5.6 ms | 0% |
+| 🟢 | 🇨🇦 Saint-Laurent, CA | OVH | **7.7 ms** | 7.7 ms | 7.7 ms | 0% |
+| 🟢 | 🇺🇸 Buffalo, US | HostPapa | **11.7 ms** | 11.5 ms | 12.0 ms | 0% |
+
+<sub>ICMP ping to `check-host.one` from 10 servers, 2026-10-23 01:52 UTC. [Full result with map](https://check-host.one/r/dw7dhm3kbd) · updated every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) using the [Python SDK](https://github.com/Check-Host-one/check-host-python).</sub>
+<!-- PING:END -->
+
+<p>
+  <a href="https://check-host.one/?type=ping&target=check-host.one"><img src="https://img.shields.io/badge/%E2%96%B6%20Run%20a%20live%20ping-check--host.one-2563eb?style=for-the-badge" alt="Run a live ping of check-host.one"></a>
+  <a href="https://check-host.one/?type=http&target=check-host.one"><img src="https://img.shields.io/badge/%E2%96%B6%20HTTP%20check-check--host.one-0ea5e9?style=for-the-badge" alt="Run a live HTTP check of check-host.one"></a>
+</p>
+
 ### 🤖 For AI agents
 
 Add the hosted MCP server and let Claude, Cursor, Copilot or any MCP client run checks for you:
