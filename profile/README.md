@@ -43,7 +43,7 @@ No account and no API key, for the website, the API or the MCP server.
   </picture>
 </a>
 
-<sub>Click the card to run a fresh check · [last result with map](https://check-host.one/r/b35wdqy8s9) · drawn every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) with the [Python SDK](https://github.com/Check-Host-one/check-host-python)</sub>
+<sub>Click the card to run a fresh check · [last result with map](https://check-host.one/r/9mn9mqw6r7) · drawn every 6 hours by a [GitHub Action](https://github.com/Check-Host-one/.github/blob/main/.github/workflows/ping.yml) with the [Python SDK](https://github.com/Check-Host-one/check-host-python)</sub>
 
 ### 🤖 For AI agents
 
